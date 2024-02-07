@@ -1,6 +1,6 @@
 ## Soft continuum robot modelling
 
-This repository provides functions to simulate the statics of a soft continuum robot (pneumatic) including mechanical contact 
+This repository provides functions to simulate the statics of a soft continuum robot (pneumatic) including mechanical contact. 
 Developed in MATLAB 2021b
 
 ### Usage
